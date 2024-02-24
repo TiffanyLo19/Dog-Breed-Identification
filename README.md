@@ -9,3 +9,5 @@ This project focuses on implementing deep learning for dog breed identification 
   3. Training and Validation Testing: Implements a training pipeline to train the model on a labeled dataset and validate its performance using a separate validation set.
 
   4. Fine-Tuning: Incorporates fine-tuning techniques to enhance the model's accuracy and generalization capabilities.
+
+  5. Dataset: https://www.kaggle.com/c/dog-breed-identification
