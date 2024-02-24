@@ -11,3 +11,5 @@ This project focuses on implementing deep learning for dog breed identification 
   4. Fine-Tuning: Incorporates fine-tuning techniques to enhance the model's accuracy and generalization capabilities.
 
   5. Dataset: https://www.kaggle.com/c/dog-breed-identification
+
+The current model accuracy is at 90%. This is to be improved. 
